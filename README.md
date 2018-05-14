@@ -7,10 +7,10 @@ I'm looking forward to getting to know you, and this document is not intended to
 TL;DR: I am here to make sure our team is successful, happy, and working on the things that are most important to help our customers, improve our product, and improve our business. More granularly:
 
 1.  I am here to make sure *you are both successful and happy*: I want you to improve your technical skills, grow your career, enjoy your work, and believe in both our team's and our company's mission.
-2.  I am here to make sure our *team is successful and pointed in the right direction*. You might hear Dharmesh talking about [aligning vectors](https://thinkgrowth.org/what-elon-musk-taught-me-about-growing-a-business-c2c173f5bff3): I am here to make sure our team is all aligned and pushing in the same direction.
-3.  I write some code too :smiley: (maybe)
+2.  I am here to make sure our *team is successful and pointed in the right direction*.
+3.  I write some code too (maybe)
 
-Additionally: My job is _not_ to tell you exactly what to do and how to do it. It is also not to be the "official decision maker" for our team. I might have thoughts on your code, and I expect you to have thoughts on mine. In the end, you own your code and if you have a good reason for doing something, you should do it. When I asked some other people for feedback on this README, one asked about this point, and then said something I thought was poignant: "I am _accountable_ for the decisions the team make, even if I’m not the one making them most of the time." I also want to point out that I expect, overtime, every developer that joins the team to be a better developer than myself, in some cases this is already true. I will rely on your technical advice as we continue to grow and I become less familair with every line of the codebase and you become more. 
+Additionally: My job is _not_ to tell you exactly *what* to do nor *how* to do it. This is why I avoid writing your tickets, I'm also very bad at it, and let the project leads run the research spikes. My job is also not to be the "official decision maker" for our team. I am _accountable_ for the decisions the team make, even if I’m not the one making them most of the time. I also want to point out that I expect, overtime, every developer that joins the team to become a better developer than myself, in some cases this is already true. I will rely on your technical advice as we continue to grow and I become less familair with every line of the codebase, and you become more. 
 
 ## Feedback
 
@@ -22,9 +22,9 @@ If you're not comfortable giving me this feedback yourself, I'd love for you to 
 
 ## Schedule
 
-I am usually in the office between 10am and 6pm. I am often in the office earlier or later, but with some exceptions these tend to be the hours you can count on finding me. I do usually work from home once a week and I often will head home around 6.
+I am usually in the office between 10am and 6pm. I am often in the office earlier or later, but with some exceptions these tend to be the hours you can count on finding me. 
 
-As for your schedule: do what works for you, but use good judgment. I expect a couple hours of overlap at somepoint during the day so that we can work on the above missions but around the edges, you have complete flexibility on the assumption that you are doing it in good faith. I don't need to know you have a doctors appointment at 5pm or you want to have a nice breakfast with your kid until 10. Both are encouraged, I trust that you can balance your priorities. 
+As for your schedule: do what works for you, and use good judgment. I expect a couple hours of overlap at somepoint during the day so that we can work on the above missions but around the edges, you have complete flexibility on the assumption that you are doing it in good faith. I don't need to know you have a doctors appointment at 5pm or you want to have a nice breakfast with your kid until 10. Both are encouraged and I trust that you can balance your priorities. 
 
 ## One-on-ones
 
@@ -34,13 +34,9 @@ One-on-ones are _your time_. I will probably have some things to discuss with yo
 
 I encourage you to write down some things you want to chat about ahead of time, because they can be hard to think of or bring up in the moment. If you struggle with bringing them up, feel free to send me a vague agenda ahead of time. If you don't know what to talk about, say so. We can use that as a topic.
 
-These are some interesting articles I've read about one-on-ones, though I don't necessarily agree with all of the points: [1](https://getlighthouse.com/blog/effective-1-on-1-meetings/), [2](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c). If you have thoughts on either, that might make a good topic to include in a one-on-one.
-
 ## Work–life balance
 
-I strongly believe in a healthy work–life balance.
-
-Let me know if you need any help to make this work. I don't want you working ridiculous hours, and I don't want you working at the expense of your family/health/beliefs/etc.
+I strongly believe in a healthy work–life balance.  Let me know if you need any help to make this work. I don't want you working ridiculous hours, and I don't want you working at the expense of your family/health/beliefs/etc.
 
 If you are unhappy, please let me know.
 
@@ -50,7 +46,7 @@ I will give you feedback on how you're doing in our one-on-ones. If I'm worried 
 
 ## If you need something
 
-Some weeks, my schedule can be pretty full. Other weeks it's not so bad. If you need to chat, you have a few options but most importantly, I'll always find some time to talk with you! 
+Some weeks, my schedule can be pretty full. Other weeks it's not so bad. If you need to chat I'll always find some time to talk with you, you just need to let me know you need it.
 
 1.  Snag me at my desk.
 2.  Throw something on my calendar.
@@ -58,4 +54,4 @@ Some weeks, my schedule can be pretty full. Other weeks it's not so bad. If you 
 
 ## Caveat
 
-Take this document with a grain of salt. 
+Take this document with a grain of salt, I strive to be consistent with everything here but utlimately this is a point-in-time snapshot of my thoughts. My thoughts will continue to evolve and I'll try to continue to update this.
